@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-qmyf84.buildererp.net/sitemap.xml
